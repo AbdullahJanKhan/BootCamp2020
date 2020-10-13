@@ -6,7 +6,8 @@ function App() {
   return (
     <div>
       Hello World React
-    </div>
+      <p>This is a paragraph</p>
+      </div>
   );
 }
 
